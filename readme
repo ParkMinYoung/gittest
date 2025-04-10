@@ -18,3 +18,19 @@ git remote add origin https://github.com/ParkMinYoung/gittest.git
 git push origin master
 
 
+# execute time : 2025-04-10 17:23:07 : 
+git branch -M main
+
+
+# execute time : 2025-04-10 17:23:15 : 
+git remote add origin https://github.com/ParkMinYoung/gittest.git
+
+
+# execute time : 2025-04-10 17:23:27 : seccess
+git push -u origin main
+
+
+# execute time : 2025-04-10 17:23:46 : 
+h "seccess"
+
+

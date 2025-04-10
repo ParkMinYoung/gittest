@@ -2,3 +2,19 @@
 git init
 
 
+# execute time : 2025-04-10 17:03:32 : 
+git add .
+
+
+# execute time : 2025-04-10 17:03:46 : 
+git commit -m "initial commit"
+
+
+# execute time : 2025-04-10 17:04:33 : 
+git remote add origin https://github.com/ParkMinYoung/gittest.git 
+
+
+# execute time : 2025-04-10 17:04:40 : 
+git push origin master
+
+
